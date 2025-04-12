@@ -7,5 +7,4 @@ The implementations contained in this directory are:
 - Parity bit basics
 - Parity bit using Hamming code
 - RSA algorithm demonstration
-- Barcode check digit finder
 - Caesar cipher
